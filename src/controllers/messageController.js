@@ -34,4 +34,4 @@ exports.getMessages = (req, res) => {
     }
     res.json(JSON.parse(data));
   });
-};
+}
